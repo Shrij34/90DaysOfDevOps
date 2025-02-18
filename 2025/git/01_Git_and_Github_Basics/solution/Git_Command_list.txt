@@ -21,11 +21,9 @@ git commit -m "Initial commit: Add info.txt with introductory content"
 Configure Remote URL with PAT and Push/Pull
 Configure Remote URL with Your PAT:
 
-bash
 git remote add origin https://<your-username>:<your-PAT>@github.com/<your-username>/90DaysOfDevOps.git
 Or, if the remote origin already exists:
 git remote set-url origin https://<your-username>:<your-PAT>@github.com/<your-username>/90DaysOfDevOps.git
-
 
 Push Your Commit to Remote:
 git push -u origin main

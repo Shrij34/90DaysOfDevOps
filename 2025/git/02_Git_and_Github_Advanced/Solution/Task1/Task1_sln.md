@@ -33,11 +33,17 @@ And Doc is in Task1_doc.md in Dir
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> a9ebaca362fd5993fe4d092bbc182586013c462d
+<<<<<<< HEAD
 ###Got board of creating folder and file so created a create.sh file which create a solution directory that contains subdirectories #for each task. Each task subdirectory will have Task1_sln.md and Task1_doc.md files. The number of tasks is provided as an #argument to the script.###
 
 =======
 ###Got board of creating folder and file so created a create.sh file which create a solution directory that contains subdirectories #for each task. Each task subdirectory will have Task1_sln.md and Task1_doc.md files. The number of tasks is provided as an #argument to the script.###
 >>>>>>> 7bb896f09ff700eef07945ca79dbe405cea4462b
+<<<<<<< HEAD
 =======
 ###Got board of creating folder and file so created a create.sh file which create a solution directory that contains subdirectories #for each task. Each task subdirectory will have Task1_sln.md and Task1_doc.md files. The number of tasks is provided as an #argument to the script.###
 >>>>>>> feature-branch
+=======
+>>>>>>> a9ebaca362fd5993fe4d092bbc182586013c462d

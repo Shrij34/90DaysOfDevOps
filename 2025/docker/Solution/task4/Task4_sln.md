@@ -27,6 +27,7 @@
    - Explain in `solution.md` the benefits of multi-stage builds and the impact on image size.
 
 ---
+[Solution Document](./Task4_doc.md)
 
 In Doc file in this Task4 Dir
 
